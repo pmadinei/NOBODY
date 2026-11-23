@@ -1,0 +1,6 @@
+numpy
+pillow
+# captioning backends (install the one you use)
+# transformers torch accelerate
+# vllm
+# openai

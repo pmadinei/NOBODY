@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+benchmark/images/
+benchmark/captions/
+benchmark/results/
+dataset/images/
